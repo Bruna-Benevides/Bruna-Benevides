@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil da Bruna Benevides 😁
 
+### Perfil em construção - 🚧🔨
   <div>
    <a href="https://github.com/Rruna-Benevides">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruna-benevides&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
